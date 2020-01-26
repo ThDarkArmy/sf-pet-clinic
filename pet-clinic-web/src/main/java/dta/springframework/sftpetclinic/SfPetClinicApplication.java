@@ -1,4 +1,4 @@
-package tda.springframework.sfpetclinic;
+package dta.springframework.sftpetclinic;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
